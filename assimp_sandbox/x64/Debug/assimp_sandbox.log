@@ -1,0 +1,5 @@
+﻿  assimp_sandbox.cpp
+C:\Users\tyuri\source\repos\assimp_sandbox\assimp_sandbox.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tyuri\source\repos\assimp_sandbox\assimp_sandbox.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tyuri\source\repos\assimp_sandbox\assimp_sandbox.cpp(89,23): warning C4018: <: несоответствие типов со знаком и без знака
+  assimp_sandbox.vcxproj -> C:\Users\tyuri\source\repos\assimp_sandbox\x64\Debug\assimp_sandbox.exe
