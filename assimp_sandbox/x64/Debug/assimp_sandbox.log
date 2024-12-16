@@ -1,5 +1,6 @@
 ﻿  assimp_sandbox.cpp
-C:\Users\tyuri\source\repos\assimp_sandbox\assimp_sandbox.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\tyuri\source\repos\assimp_sandbox\assimp_sandbox.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\tyuri\source\repos\assimp_sandbox\assimp_sandbox.cpp(89,23): warning C4018: <: несоответствие типов со знаком и без знака
-  assimp_sandbox.vcxproj -> C:\Users\tyuri\source\repos\assimp_sandbox\x64\Debug\assimp_sandbox.exe
+C:\Users\tyuri\Documents\GitHub\sandbox\assimp_sandbox.cpp(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tyuri\Documents\GitHub\sandbox\assimp_sandbox.cpp(122,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tyuri\Documents\GitHub\sandbox\assimp_sandbox.cpp(135,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tyuri\Documents\GitHub\sandbox\assimp_sandbox.cpp(162,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  assimp_sandbox.vcxproj -> C:\Users\tyuri\Documents\GitHub\sandbox\x64\Debug\assimp_sandbox.exe

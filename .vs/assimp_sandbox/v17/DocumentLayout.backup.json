@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tyuri\\source\\repos\\assimp_sandbox\\",
+  "WorkspaceRootPath": "C:\\Users\\tyuri\\Documents\\GitHub\\sandbox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAE29D2F-C105-41BB-A624-4B6FA842836F}|assimp_sandbox.vcxproj|C:\\Users\\tyuri\\source\\repos\\assimp_sandbox\\assimp_sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AAE29D2F-C105-41BB-A624-4B6FA842836F}|assimp_sandbox.vcxproj|C:\\Users\\tyuri\\Documents\\GitHub\\sandbox\\assimp_sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AAE29D2F-C105-41BB-A624-4B6FA842836F}|assimp_sandbox.vcxproj|solutionrelative:assimp_sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "assimp_sandbox.cpp",
-              "DocumentMoniker": "C:\\Users\\tyuri\\source\\repos\\assimp_sandbox\\assimp_sandbox.cpp",
+              "DocumentMoniker": "C:\\Users\\tyuri\\Documents\\GitHub\\sandbox\\assimp_sandbox.cpp",
               "RelativeDocumentMoniker": "assimp_sandbox.cpp",
-              "ToolTip": "C:\\Users\\tyuri\\source\\repos\\assimp_sandbox\\assimp_sandbox.cpp",
+              "ToolTip": "C:\\Users\\tyuri\\Documents\\GitHub\\sandbox\\assimp_sandbox.cpp",
               "RelativeToolTip": "assimp_sandbox.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-01T11:14:48.987Z",
               "EditorCaption": ""
